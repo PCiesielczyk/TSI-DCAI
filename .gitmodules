@@ -1,0 +1,6 @@
+[submodule "TSI"]
+	path = TSI
+	url = https://github.com/PCiesielczyk/TSI
+[submodule "DFG-to-yolov5-converter"]
+	path = DFG-to-yolov5-converter
+	url = https://github.com/PCiesielczyk/DFG-to-yolov5-converter
